@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'AR One Sans', sans-serif;
+}
+
+body{
+    width: 100%;
+}
+
+.container{
+    width: 30rem;
+    margin: 2rem auto;
+}
+
+.container .title{
+    text-align: center;
+    color: #be123c;
+    margin-bottom: 3rem;
+}
+
+.container .form{
+    background-color: #fff1f2;
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    overflow: hidden;
+
+}
+
+.container .form :focus{
+    background-color: #ffe4e64f;
+}
+
+.form input{
+    flex: 1;
+    padding: 0.7rem;
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+.form .btn{
+    padding: 0.7rem;
+    background-color: #4c0519;
+    color: #fff1f2;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.lists .todo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffe4e6;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+}
+
+.todo span{
+    cursor: pointer;
+}
