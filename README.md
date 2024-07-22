@@ -3,7 +3,7 @@ Name: SUBHRANSU SEKHAR BEURA
 Company: CODTECH IT SOLUTIONS
 ID: CT4WD3516
 Domain: Web Development
-Duration: 25th June to 25th July 2024
+Duration: July 1st to August 1st 2024
 Mentor: Neela Santhosh Kumar
 
 Overview of the Project
