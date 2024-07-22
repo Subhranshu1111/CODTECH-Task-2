@@ -35,3 +35,5 @@ Displaying a weather icon.
 Adding error handling for invalid city names.
 Showing a loading indicator while fetching data.
 Displaying a 5-day weather forecast.
+![Weather App - Personal - Microsoft​ Edge 7_22_2024 8_30_55 PM](https://github.com/user-attachments/assets/48d3c61c-022d-40a6-87d4-d1c0b082b7cb)
+
